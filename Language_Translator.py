@@ -1,3 +1,5 @@
+# Online Language Translator in Python
+
 from googletrans import Translator
 
 # Create a Translator instance
